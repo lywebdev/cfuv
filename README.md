@@ -24,11 +24,6 @@ In this block, we will tell you more about the tools that we use in the developm
 
 - React
 
-#### Packages:
-
-- [Eloquent-Sluggable](https://github.com/cviebrock/eloquent-sluggable)
-- [Laravel Debugbar](https://github.com/barryvdh/laravel-debugbar)
-
 ## Developers
 
 <p>
